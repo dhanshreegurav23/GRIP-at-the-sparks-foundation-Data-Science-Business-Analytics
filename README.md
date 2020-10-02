@@ -1,4 +1,2 @@
-
-                                                               # All the tasks are related to my
-                                                                # GRIP-at-the-sparks-foundation
-                                                                      #Internship
+##This repository contains my internship task
+#GRIP-AT-THE-SPARKS-FOUNDATION
